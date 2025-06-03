@@ -1,0 +1,7 @@
+Pecho
+Espalda
+Piernas
+Biceps
+Triceps
+Hombro
+/start
